@@ -2,6 +2,10 @@
   "rewrites": [
     {
       "source": "/ip", 
+      "destination": "https://myip.ipip.net"
+    },
+    {
+      "source": "/ip-rss", 
       "destination": "https://ip.rss.ink"
     },
     {
