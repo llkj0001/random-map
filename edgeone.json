@@ -1,8 +1,8 @@
 {
-  "rewrites": [
-    {
-      "source": "/ip", 
-      "destination": "https://myip.ipip.net"
-    }
-  ]
+    "redirects": [
+      {
+        "source": "/ip",
+        "destination": "https://myip.ipip.net"
+      }
+    ]
 }
