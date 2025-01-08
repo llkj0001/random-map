@@ -1,8 +1,8 @@
 {
     "redirects": [
       {
-        "source": "/mini1-oai",
-        "destination": "https://api.mini1-oai.autos",
+        "source": "/mini1-oai:path*",
+        "destination": "https://api.mini1-oai.autos/:path*",
         "statusCode": 302
       }
     ]
