@@ -1,9 +1,8 @@
 {
-    "redirects": [
+    "rewrites": [
       {
         "source": "/ip",
-        "destination": "https://myip.ipip.net",
-        "statusCode": 301
+        "destination": "https://myip.ipip.net/"
       }
     ]
 }
