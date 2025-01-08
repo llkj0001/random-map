@@ -3,7 +3,7 @@
       {
         "source": "/:path*", 
         "destination": "https://api.mini1-oai.autos/:path*",
-        "statusCode": 302
+        "statusCode": 301
       }
     ]
 }
