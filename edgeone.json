@@ -2,7 +2,12 @@
     "redirects": [
       {
         "source": "/ip",
-        "destination": "https://myip.ipip.net/",
+        "destination": "https://myip.ipip.net",
+        "statusCode": 301
+      },
+      {
+        "source": "/mini1-oai",
+        "destination": "https://api.mini1-oai.autos",
         "statusCode": 301
       }
     ]
