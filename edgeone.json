@@ -1,11 +1,6 @@
 {
     "redirects": [
       {
-        "source": "/ip",
-        "destination": "https://myip.ipip.net",
-        "statusCode": 301
-      },
-      {
         "source": "/v1/chat/completions",
         "destination": "https://api.mini1-oai.autos/v1/chat/completions",
         "statusCode": 301
