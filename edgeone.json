@@ -3,7 +3,7 @@
       {
         "source": "/v1/chat/completions",
         "destination": "https://api.mini1-oai.autos/v1/chat/completions",
-        "statusCode": 301
+        "statusCode": 302
       }
     ]
 }
