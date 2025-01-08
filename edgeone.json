@@ -1,7 +1,7 @@
 {
     "redirects": [
       {
-        "source": "/v1/chat/completions",
+        "source": "/mini1-oai",
         "destination": "https://api.mini1-oai.autos/v1/chat/completions",
         "statusCode": 302
       }
